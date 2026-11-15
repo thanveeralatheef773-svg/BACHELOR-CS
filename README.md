@@ -1,6 +1,6 @@
 # 🎓 Bachelor of Computer Science 
 **Student at:** Paramakkavu College of Arts and Science (PCAS)  
-**Goal:** Master's in Cybersecurity (Japan) 🇯🇵
+**Goal:**  Cybersecurity/ethical hacking
 
 ---
 

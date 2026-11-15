@@ -9,6 +9,3 @@ I am exploring the intersection of **Low-level C programming** and **Network Sec
 * **Current Lab:** Memory Management in C.
 * **Self-Study:** TryHackMe Pre-Security Path.
 
-### 🍱 Language Goals
-* **JLPT Level:** N5 (In progress)
-* **Daily Goal:** 10 New Kanji/Vocab words.
